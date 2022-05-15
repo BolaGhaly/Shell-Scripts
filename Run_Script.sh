@@ -1,5 +1,5 @@
 #!/bin/bash
-python -m webbrowser https://tinyurl.com/yc7xhw6u
+python3 -m webbrowser https://tinyurl.com/yc7xhw6u
 
 : '
 Linux: xdg-open (Ex: xdg-open https://stackoverflow.com)
