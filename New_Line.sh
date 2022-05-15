@@ -1,4 +1,5 @@
-#!/usr/bin/bash
+#!/bin/bash
+
 firstLine="This is the first line"
 secondLine="This is the second line"
 

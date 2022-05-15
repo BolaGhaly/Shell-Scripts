@@ -1,4 +1,5 @@
-#!/usr/bin/bash
+#!/bin/bash
+
 int1=15
 int2=12
 

@@ -1,4 +1,5 @@
-#!/usr/bin/bash
+#!/bin/bash
+
 str="Hello World!"
 strLen=${#str} 
 

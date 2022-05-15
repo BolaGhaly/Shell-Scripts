@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 declare -a arr1=( one 2 three 4 .. 100)
 # or arr1=( one two three )

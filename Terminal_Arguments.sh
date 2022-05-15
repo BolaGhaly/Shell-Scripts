@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 if [ $# -eq 0 ]; then
     echo -e "\nNo arguments provided\nRun \"./Terminal_Arguments.sh <name> <age>\""

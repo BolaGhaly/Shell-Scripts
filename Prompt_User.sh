@@ -1,4 +1,5 @@
-#!/usr/bin/bash
+#!/bin/bash
+
 read -p "Enter name: " Name
 read -p "Enter Age: " Age
 

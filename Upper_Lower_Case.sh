@@ -1,4 +1,5 @@
-#!/usr/bin/bash
+#!/bin/bash
+
 str1="this is lower case string converted to uppercase"
 echo "$str1" | tr '[:lower:]' '[:upper:]'
 # or ....
