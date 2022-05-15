@@ -9,3 +9,8 @@ echo -e "$firstLine\n$secondLine\n";
 
 # Echo New Line in Bash With $
 echo $firstLine$'\n'$secondLine
+
+# or .....
+echo
+echo $firstLine
+echo $secondLine
