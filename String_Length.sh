@@ -4,4 +4,4 @@ str="Hello World!"
 strLen=${#str} 
 
 # output = 12
-echo "Length of String '$str' =" $strLen
+echo -e "\nLength of String '$str' = $strLen\n"
